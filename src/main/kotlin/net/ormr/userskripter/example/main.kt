@@ -15,7 +15,8 @@ fun main() = userskript {
         onclick = {
             launch {
                 GreaseMonkey.notification {
-                    text = "This is a notification!" }
+                    text = "This is a notification!"
+                }
             }
         }
     }
