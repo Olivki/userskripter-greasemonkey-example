@@ -1,4 +1,4 @@
-package net.ormr.usersrkipter.example
+package net.ormr.userskripter.example
 
 import kotlinx.browser.document
 import kotlinx.coroutines.launch
