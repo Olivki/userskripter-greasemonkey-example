@@ -36,7 +36,7 @@ If nothing goes wrong then the `./build/userskripter/` directory should be opene
 
 If using TamperMonkey _(recommended)_ then all that's needed to install the generated script file is to drag and drop the `userskripter-greasemonkey-example.user.js` file onto a new empty tab in your web browser, which should bring up this page after a second or two:
 
-image::assets/tampermonkey_install.png[alt="TamperMonkey Install Screen"]
+image::assets/tampermonkey_install_screen.png[alt="TamperMonkey Install Screen"]
 
 Just click on the `Install` button and then navigate to https://xxx[example.com] where there should now be a `button` element under the `More Information...` text with the text `Click Me!`. Clicking on the button should bring up a new notification with the title `userskripter-greasemonkey-example` and the text `This is a notification!`.
 
