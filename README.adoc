@@ -10,7 +10,7 @@ To generate and access the required `*.user.js` file there's two ways:
 
 '''
 
-=== `generateUserscript`
+=== generateUserscript
 
 [source,bash]
 ----
@@ -21,7 +21,7 @@ And then navigate to the `./build/userskripter/` directory, where you'll see the
 
 `generateUserscript` is a task provided by default as long as you use the userskripter gradle plugin.
 
-=== `openUserscriptDirectory`
+=== openUserscriptDirectory
 
 [source,bash]
 ----
